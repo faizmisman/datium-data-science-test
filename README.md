@@ -24,3 +24,7 @@ $ git clone https://github.com/faizmisman/datium-data-science-test
 $ mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts --host localhost
 ```
 - Open another terminal run notebook and choose ```Datium_DataScience_test-A.ipynb```
+
+### Section B
+
+For this section, download and open the ```Vehicle damage detection with deep learning.pdf``` included in this repo
